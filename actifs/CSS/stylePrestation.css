@@ -31,7 +31,7 @@ body{
 
  #burgerSectionGauche,#burgerSectionDroite{
   transform: translateY(-100%);
-  transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out; 
   transition-delay: 0.5s;
 
 }
